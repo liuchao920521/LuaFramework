@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 2039a258d8ade8643ba390f4859154b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BDressBone2_4
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger01
+    100014: Bip001 L Finger1
+    100016: Bip001 L Finger11
+    100018: Bip001 L Foot
+    100020: Bip001 L Forearm
+    100022: Bip001 L Hand
+    100024: Bip001 L Thigh
+    100026: Bip001 L Toe0
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Finger01
+    100042: Bip001 R Finger1
+    100044: Bip001 R Finger11
+    100046: Bip001 R Foot
+    100048: Bip001 R Forearm
+    100050: Bip001 R Hand
+    100052: Bip001 R Thigh
+    100054: Bip001 R Toe0
+    100056: Bip001 R UpperArm
+    100058: Bip001 Spine
+    100060: Bip001 Spine1
+    100062: DaoBone1_1
+    100064: DaoBone1_2
+    100066: DaoBone2
+    100068: DressBone1_1
+    100070: DressBone1_2
+    100072: DressBone1_3
+    100074: DressBone1_4
+    100076: DressBone1_5
+    100078: DressBone2_1
+    100080: DressBone2_2
+    100082: DressBone2_3
+    100084: DressBone3_1
+    100086: DressBone3_2
+    100088: DressBone3_3
+    100090: DressBone3_4
+    100092: DressBone4_1
+    100094: DressBone4_2
+    100096: DressBone4_3
+    100098: DressBone4_4
+    100100: DressBone5_1
+    100102: DressBone5_2
+    100104: DressBone5_3
+    100106: DressBone5_4
+    100108: guiwushi_dao1
+    100110: guiwushi_dao2
+    100112: guiwushi_dao2_2
+    100114: Hair1_1
+    100116: Hair1_2
+    100118: Hair1_3
+    100120: Hair1_4
+    100122: Hair2_1
+    100124: Hair2_2
+    100126: Hair2_3
+    100128: Hair2_4
+    100130: Hair3_1
+    100132: Hair3_2
+    100134: Hair3_3
+    100136: Hair4_1
+    100138: Hair4_2
+    100140: Hair4_3
+    100142: Hair5_1
+    100144: Hair5_2
+    100146: Hair5_3
+    100148: Hair5_4
+    100150: Hair6_1
+    100152: Hair6_2
+    100154: Hair6_3
+    100156: Hair7_1
+    100158: Hair7_2
+    100160: Hair7_3
+    100162: Hair7_4
+    100164: Hair8_1
+    100166: Hair8_2
+    100168: Hair8_3
+    100170: Hair8_4
+    100172: Hair9_1
+    100174: Hair9_2
+    100176: Hair9_3
+    100178: //RootNode
+    100180: jianke
+    100182: SleeveBone1
+    100184: SleeveBone2
+    100186: SleeveBone3
+    100188: SleeveBone4
+    100190: SleeveBone5
+    400000: BDressBone2_4
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger01
+    400014: Bip001 L Finger1
+    400016: Bip001 L Finger11
+    400018: Bip001 L Foot
+    400020: Bip001 L Forearm
+    400022: Bip001 L Hand
+    400024: Bip001 L Thigh
+    400026: Bip001 L Toe0
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Finger01
+    400042: Bip001 R Finger1
+    400044: Bip001 R Finger11
+    400046: Bip001 R Foot
+    400048: Bip001 R Forearm
+    400050: Bip001 R Hand
+    400052: Bip001 R Thigh
+    400054: Bip001 R Toe0
+    400056: Bip001 R UpperArm
+    400058: Bip001 Spine
+    400060: Bip001 Spine1
+    400062: DaoBone1_1
+    400064: DaoBone1_2
+    400066: DaoBone2
+    400068: DressBone1_1
+    400070: DressBone1_2
+    400072: DressBone1_3
+    400074: DressBone1_4
+    400076: DressBone1_5
+    400078: DressBone2_1
+    400080: DressBone2_2
+    400082: DressBone2_3
+    400084: DressBone3_1
+    400086: DressBone3_2
+    400088: DressBone3_3
+    400090: DressBone3_4
+    400092: DressBone4_1
+    400094: DressBone4_2
+    400096: DressBone4_3
+    400098: DressBone4_4
+    400100: DressBone5_1
+    400102: DressBone5_2
+    400104: DressBone5_3
+    400106: DressBone5_4
+    400108: guiwushi_dao1
+    400110: guiwushi_dao2
+    400112: guiwushi_dao2_2
+    400114: Hair1_1
+    400116: Hair1_2
+    400118: Hair1_3
+    400120: Hair1_4
+    400122: Hair2_1
+    400124: Hair2_2
+    400126: Hair2_3
+    400128: Hair2_4
+    400130: Hair3_1
+    400132: Hair3_2
+    400134: Hair3_3
+    400136: Hair4_1
+    400138: Hair4_2
+    400140: Hair4_3
+    400142: Hair5_1
+    400144: Hair5_2
+    400146: Hair5_3
+    400148: Hair5_4
+    400150: Hair6_1
+    400152: Hair6_2
+    400154: Hair6_3
+    400156: Hair7_1
+    400158: Hair7_2
+    400160: Hair7_3
+    400162: Hair7_4
+    400164: Hair8_1
+    400166: Hair8_2
+    400168: Hair8_3
+    400170: Hair8_4
+    400172: Hair9_1
+    400174: Hair9_2
+    400176: Hair9_3
+    400178: //RootNode
+    400180: jianke
+    400182: SleeveBone1
+    400184: SleeveBone2
+    400186: SleeveBone3
+    400188: SleeveBone4
+    400190: SleeveBone5
+    2100000: 01 - Default
+    4300000: jianke
+    4300002: guiwushi_dao1
+    4300004: guiwushi_dao2
+    4300006: guiwushi_dao2_2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: guiwushi_dao1
+    13700002: guiwushi_dao2
+    13700004: guiwushi_dao2_2
+    13700006: jianke
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
